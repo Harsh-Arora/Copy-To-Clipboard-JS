@@ -1,5 +1,5 @@
 # Copy-To-Clipboard-JS
-### Light weight pure Javasscript copy to clipboard function for the Web
+### Light weight pure Javascript copy to clipboard function for the Web
 
 ## Usage
 
