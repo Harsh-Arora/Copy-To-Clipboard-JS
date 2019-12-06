@@ -3,10 +3,10 @@
 
 ## Usage
 
-'''html
-<button onclick="copyToClipboard('ifOfTheElement')>Copy</button>
-'''
+```html
+<button onclick="copyToClipboard('idOfTheElement')>Copy</button>
+```
                  
 ## Demo
 
-Open 'test.html' for demo.
+Open `test.html` for demo.
