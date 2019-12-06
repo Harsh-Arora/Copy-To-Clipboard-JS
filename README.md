@@ -1,2 +1,12 @@
 # Copy-To-Clipboard-JS
-Simple pure Javasscript function to copy any text from htmlDOM to clipboard.
+### Light weight pure Javasscript copy to clipboard function for the Web
+
+## Usage
+
+'''html
+<button onclick="copyToClipboard('ifOfTheElement')>Copy</button>
+'''
+                 
+## Demo
+
+Open 'test.html' for demo.
