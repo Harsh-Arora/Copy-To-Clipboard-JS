@@ -4,7 +4,7 @@
 ## Usage
 
 ```html
-<button onclick="copyToClipboard('idOfTheElement')>Copy</button>
+<button onclick="copyToClipboard('idOfTheElement')">Copy</button>
 ```
                  
 ## Demo
